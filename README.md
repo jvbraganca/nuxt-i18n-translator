@@ -7,7 +7,7 @@ Esse script em Python usa a `API do Google Cloud Translator` para traduzir arqui
 
 Assim que você executa o programa, você deve responder algumas perguntas para que o script seja configurado para o uso.
 
-    ![Imagem](https://i.imgur.com/AfwwIl6.png)
+![Imagem](https://i.imgur.com/AfwwIl6.png)
 
 #### Pré-requisitos
 1.  Para usar este script execute os seguintes comandos para instalar as dependências
